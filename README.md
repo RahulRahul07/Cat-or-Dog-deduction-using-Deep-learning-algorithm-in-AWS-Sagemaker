@@ -1,4 +1,4 @@
-# Cat-or-Dod-deduction-using-Deep-learning-algorithm-in-AWS-Sagemaker
+# Cat-or-Dog-deduction-using-Deep-learning-algorithm-in-AWS-Sagemaker
 # Abstract
 The use of deep learning algorithms in AWS SageMaker for cat or dog detection aims to automatically determine whether an input image contains a cat or a dog. Deep learning algorithms are employed due to their ability to learn complex features from large datasets, enhancing the accuracy of image recognition tasks. AWS SageMaker provides a scalable and cost-effective platform with tools for data preprocessing, model training, evaluation, and deployment, making it an ideal choice for implementing cat or dog detection systems.
 # Introduction
